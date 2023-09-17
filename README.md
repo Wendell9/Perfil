@@ -10,8 +10,7 @@ Email📬:guindaniwendell90@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guindaniwendell90@gmail.com)
 
 ![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wendell9&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell9&layout=compact)
 
 ## Tecnologias que domino
 
